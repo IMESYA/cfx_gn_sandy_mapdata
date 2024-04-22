@@ -3,7 +3,7 @@ games { 'gta5' }
 
 author 'G&N_s Studio'
 description 'Sandy Shore Mapdata - Burgershot+Sheriff+StripMall'
-version '4.0.0'
+version '4.0.1'
 
 dependencies {
     '/gameBuild:2189'
