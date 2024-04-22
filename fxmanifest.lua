@@ -1,9 +1,9 @@
 fx_version "cerulean"
 games { 'gta5' }
 
-author 'G&N_s Studio'
+author 'IMESYA'
 description 'Sandy Shore Mapdata - Burgershot+Sheriff+StripMall'
-version '4.0.1'
+version '4.0.0'
 
 dependencies {
     '/gameBuild:2189'
