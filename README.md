@@ -8,7 +8,7 @@ I have collision trees and buildings in other G&N's mods?
 How to find more compatibility?
 Find all our compatibilities directly on our Github, search your compatibilities thanks to the different branches.
 
-Github Link :  [Click here](https://github.com/G-N-s-Studio/cfx_gn_sandy_mapdata)
+Github Link G&N Studio :  [Click here](https://github.com/G-N-s-Studio/cfx_gn_sandy_mapdata)
 
 ![image](https://github.com/G-N-s-Studio/cfx_gn_sandy_mapdata/assets/120711057/b49b8967-1596-482f-826e-150fd4bdb946)
 ![image](https://github.com/G-N-s-Studio/cfx_gn_sandy_mapdata/assets/120711057/c9ee3e6a-b5a7-4940-978b-3a72d451e173)
