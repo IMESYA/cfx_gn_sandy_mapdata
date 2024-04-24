@@ -2,7 +2,7 @@ fx_version "cerulean"
 games { 'gta5' }
 
 author 'IMESYA'
-description 'Sandy Shore Mapdata - Burgershot + Sheriff + StripMall'
+description 'Sandy Shore Mapdata - Sheriff + Burgershot + Stripmall'
 version '4.0.0'
 
 dependencies {
